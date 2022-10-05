@@ -1,0 +1,6 @@
+[
+  { "interfaces": [ "com.nativeredis.nativeredis.service.impl.FileDetailService",
+                    "org.springframework.aop.SpringProxy",
+                    "org.springframework.aop.framework.Advised",
+                    "org.springframework.core.DecoratingProxy" ] },
+]
